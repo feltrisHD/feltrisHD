@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @feltrisHD
-- 👀 I’m interested in Computers and other techy stuff
-- 📫 How to reach me shotmedeadxx@gmail.com
-- 😄 Pronouns: he
-- ⚡ Fun fact: I love Linux and dont like  Windows
+You can reach me via: shotmedeadxx@gmail.com 
+Interestes in coding and maintaining.
 
 <!---
 feltrisHD/feltrisHD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
