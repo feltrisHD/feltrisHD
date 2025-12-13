@@ -1,5 +1,5 @@
 You can reach me via: shotmedeadxx@gmail.com 
-Interestes in coding and maintaining.
+Interested in coding and maintaining.
 
 <!---
 feltrisHD/feltrisHD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
